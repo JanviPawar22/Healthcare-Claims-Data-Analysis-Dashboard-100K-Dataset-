@@ -69,10 +69,3 @@ Increase approval rates
 Reduce revenue loss
 Improve operational efficiency
 The dashboard provides a clear, data-driven foundation for better decision-making.
-
-
-Future Improvements
-
-Add predictive modelling for claim approval
-Build anomaly detection for fraud identification
-Automate data pipeline
